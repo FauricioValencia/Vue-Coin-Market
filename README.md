@@ -1,5 +1,5 @@
 # vue-coingecko-api
-
+deployed: https://vocal-selkie-61cf78.netlify.app/
 ## Project setup
 ```
 npm install
